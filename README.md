@@ -6,3 +6,5 @@
 
 [Link 2: Computer](https://media.ccc.de/v/35c3-9783-the_mars_rover_on-board_computer)
 
+[Link 3: Curiosity Wikipedia](https://en.wikipedia.org/wiki/Curiosity_(rover))
+
